@@ -25,7 +25,7 @@
         <h1 class="text-center display-4" style="padding-top:25px;font-weight: bold;" >Assista o vídeo abaixo para conseguir marcar sua primeira consulta:</h1>
         <div class="container text-center" >   
         <video width="900" height="510" controls>
-            <source src="../usuario/VID-20231112-WA0026.mp4">
+            <source src="../video/VID-20231112-WA0026.mp4">
         </video>
         
         </div>
